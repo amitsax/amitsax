@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitsax (Amit Saxena)
 - 👀 I’m interested in ... learning to make extended use of technology, enjoyable and extensible.
-- 🌱 I’m currently learning ... python, go and networking
+- 🌱 I’m currently learning ... python and networking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
